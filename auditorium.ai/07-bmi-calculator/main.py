@@ -1,10 +1,10 @@
 # 1st input: enter height in meters e.g: 1.65
-height = float(input())
+height = input()
 # 2nd input: enter weight in kilograms e.g: 72
-weight = float(input())
+weight = input()
 # 🚨 Don't change the code above 👆
 
 # Write your code below this line 👇
-BMI = weight / height ** 2
+BMI = int(weight) / float(height) ** 2
 
 print(BMI)
