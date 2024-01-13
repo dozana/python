@@ -14,9 +14,9 @@ Add extra cheese for any size pizza (Y or N): +$1
 
 # Example Input
 
-L
-Y
-N
+L 25
+Y 2
+N 1
 
 # Example Output
 
